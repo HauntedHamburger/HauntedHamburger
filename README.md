@@ -1,7 +1,7 @@
 # Hey! I'm Phil
 
 ## Front End Developer in New Orleans, LA
-Front-end focused software engineer with a keen interest in creating responsive layouts and learning new technologies.
+Self-taught engineer with a keen interest in creating responsive layouts and learning new technologies.
  
 ### Currently Stacked
 <p align="left"> 
