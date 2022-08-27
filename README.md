@@ -1,6 +1,5 @@
-# Hey! I'm Phil
+# Hey! I'm Phil ## Front End Engineer in New Orleans, LA
 
-## Front End Engineer in New Orleans, LA
 Self-taught engineer with a keen interest in creating responsive layouts and learning new technologies.  When not fixing people's electrical issues during the work week, I'm working on applications that provide solutions for problems no one really needs solved.
  
 ### Currently Stacked
