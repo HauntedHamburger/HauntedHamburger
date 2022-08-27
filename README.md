@@ -2,7 +2,19 @@
 
 ## About Me
 
-Self-taught engineer with a keen interest in creating responsive layouts and learning new technologies.  When not fixing people's electrical issues during the work week, I'm working on applications that provide solutions for problems no one really needs solved.
+
+Tinkering has always been a constant past time of mine; from the days of stick figure animation with Macromedia Flash, awful 8-bit Fruity Loops Studio tracks, and playing with the newest tools in the Adobe Suite.  As a curious individual, the limitless possibilities of software engineering presents a new, exciting frontier for creative exploration and expression.  When not creating electrical solutions for customers during the work week, I'm working on applications that solve real world challenges for myself and others.  In my free time you can find me cycling in the city, hiking a new mountain, and listening to new music at local venues.
+ 
+- 🔭 I’m currently working on **a project management system for Electrical professionals**
+- 📫 How to reach me **pbrimer@gmail.com**
+- 👨‍💻 Check out my work **portfolio**
+- 📄 Take a look at my resume **resume**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hauntdhamburgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hauntdhamburgr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/phillipbrimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phillipbrimer" height="30" width="40" /></a>
+</p>
  
 ### Currently Stacked
 <p align="left"> 
