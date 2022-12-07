@@ -6,7 +6,7 @@ Tinkering has always been a constant past time of mine; from the days of stick f
  
 - 🔭 I’m currently working on **a project management system for Electrical professionals**
 - 📫 How to reach me **pbrimer@gmail.com**
-- 👨‍💻 Check out my work <a href="phillipbrimer.netlify.app">here</a>
+- 👨‍💻 Check out my work <a href="https://phillipbrimer.netlify.app/">here</a>
 - 📄 Take a look at my resume **resume**
 
 <h3 align="left">Connect with me:</h3>
