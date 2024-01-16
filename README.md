@@ -1,4 +1,4 @@
-# Hey, I'm Phil! | Front End Engineer in New Orleans, LA
+# User-Centered Designer // Full-Stack Sometimer
 
 # About Me
 
@@ -6,12 +6,9 @@ Tinkering has always been a constant past time of mine; from the days of stick f
  
 - 🔭 I’m currently working on **a project management system for Electrical professionals**
 - 📫 How to reach me **pbrimer@gmail.com**
-- 👨‍💻 Check out my work <a href="https://phillipbrimer.netlify.app/">here</a>
-- 📄 Take a look at my resume **resume**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hauntdhamburgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hauntdhamburgr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/phillipbrimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phillipbrimer" height="30" width="40" /></a>
 </p>
  
