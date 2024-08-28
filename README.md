@@ -4,8 +4,7 @@
 
 Tinkering has always been a constant past time of mine; from the days of stick figure animation with Macromedia Flash, awful 8-bit Fruity Loops Studio tracks, and playing with the newest tools in the Adobe Suite.  As a curious individual, the limitless possibilities of software engineering presents a new, exciting frontier for creative exploration and expression.  When not creating electrical solutions for customers during the work week, I'm working on applications that solve real world challenges for myself and others.  In my free time you can find me cycling in the city, hiking a new mountain, and listening to new music at local venues.
  
-- 🔭 I’m currently working on **a project management system for Electrical professionals**
-- 📫 How to reach me **pbrimer@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
